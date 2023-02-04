@@ -1,0 +1,5 @@
+﻿Run the exe.file to run the game.  
+Press "q" to quit the game. 
+
+
+You can use different gestures to interact with the pet. These gestures include "Finger heart", "Thumb up","Hi", "Victory", and "Sit".
